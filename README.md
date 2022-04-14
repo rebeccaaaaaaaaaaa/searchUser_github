@@ -11,7 +11,7 @@
  - REACTJS
  - GITHUB API
 
-![Imagem]()
+![Imagem](https://raw.githubusercontent.com/rebeccaaaaaaaaaaa/searchUser_github/main/public/aaa.png)
 
 # LINKS
 
